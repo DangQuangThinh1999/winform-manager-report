@@ -1,0 +1,111 @@
+G:\QLBH\DAL\bin\Debug\DAL.exe.config
+G:\QLBH\DAL\bin\Debug\DAL.exe
+G:\QLBH\DAL\bin\Debug\DAL.pdb
+G:\QLBH\DAL\bin\Debug\DTO.exe
+G:\QLBH\DAL\bin\Debug\DTO.pdb
+G:\QLBH\DAL\obj\Debug\DAL.Properties.Resources.resources
+G:\QLBH\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+G:\QLBH\DAL\obj\Debug\DAL.exe
+G:\QLBH\DAL\obj\Debug\DAL.pdb
+G:\QLBH\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH2A\N1\QLBH\DAL\bin\Debug\DAL.exe.config
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH2A\N1\QLBH\DAL\bin\Debug\DAL.exe
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH2A\N1\QLBH\DAL\bin\Debug\DAL.pdb
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH2A\N1\QLBH\DAL\bin\Debug\DTO.exe
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH2A\N1\QLBH\DAL\bin\Debug\DTO.pdb
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH2A\N1\QLBH\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH2A\N1\QLBH\DAL\obj\Debug\DAL.Properties.Resources.resources
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH2A\N1\QLBH\DAL\obj\Debug\DAL.csproj.GenerateResource.Cache
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH2A\N1\QLBH\DAL\obj\Debug\DAL.exe
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH2A\N1\QLBH\DAL\obj\Debug\DAL.pdb
+C:\Users\ThinkPad\Desktop\CÔNG NGHỆ PHẦN MỀM\ĐỒ ÁN THẦY\QLBH\DAL\bin\Debug\DAL.exe.config
+C:\Users\ThinkPad\Desktop\CÔNG NGHỆ PHẦN MỀM\ĐỒ ÁN THẦY\QLBH\DAL\bin\Debug\DAL.exe
+C:\Users\ThinkPad\Desktop\CÔNG NGHỆ PHẦN MỀM\ĐỒ ÁN THẦY\QLBH\DAL\bin\Debug\DAL.pdb
+C:\Users\ThinkPad\Desktop\CÔNG NGHỆ PHẦN MỀM\ĐỒ ÁN THẦY\QLBH\DAL\bin\Debug\DTO.exe
+C:\Users\ThinkPad\Desktop\CÔNG NGHỆ PHẦN MỀM\ĐỒ ÁN THẦY\QLBH\DAL\bin\Debug\DTO.pdb
+C:\Users\ThinkPad\Desktop\CÔNG NGHỆ PHẦN MỀM\ĐỒ ÁN THẦY\QLBH\DAL\bin\Debug\DTO.exe.config
+C:\Users\ThinkPad\Desktop\CÔNG NGHỆ PHẦN MỀM\ĐỒ ÁN THẦY\QLBH\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\ThinkPad\Desktop\CÔNG NGHỆ PHẦN MỀM\ĐỒ ÁN THẦY\QLBH\DAL\obj\Debug\DAL.Properties.Resources.resources
+C:\Users\ThinkPad\Desktop\CÔNG NGHỆ PHẦN MỀM\ĐỒ ÁN THẦY\QLBH\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\ThinkPad\Desktop\CÔNG NGHỆ PHẦN MỀM\ĐỒ ÁN THẦY\QLBH\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Desktop\CÔNG NGHỆ PHẦN MỀM\ĐỒ ÁN THẦY\QLBH\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ThinkPad\Desktop\CÔNG NGHỆ PHẦN MỀM\ĐỒ ÁN THẦY\QLBH\DAL\obj\Debug\DAL.exe
+C:\Users\ThinkPad\Desktop\CÔNG NGHỆ PHẦN MỀM\ĐỒ ÁN THẦY\QLBH\DAL\obj\Debug\DAL.pdb
+D:\LMS\New folder\QLBH\DAL\bin\Debug\DAL.exe.config
+D:\LMS\New folder\QLBH\DAL\bin\Debug\DAL.exe
+D:\LMS\New folder\QLBH\DAL\bin\Debug\DAL.pdb
+D:\LMS\New folder\QLBH\DAL\bin\Debug\DTO.exe
+D:\LMS\New folder\QLBH\DAL\bin\Debug\DTO.pdb
+D:\LMS\New folder\QLBH\DAL\bin\Debug\DTO.exe.config
+D:\LMS\New folder\QLBH\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\LMS\New folder\QLBH\DAL\obj\Debug\DAL.Properties.Resources.resources
+D:\LMS\New folder\QLBH\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\LMS\New folder\QLBH\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\LMS\New folder\QLBH\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\LMS\New folder\QLBH\DAL\obj\Debug\DAL.exe
+D:\LMS\New folder\QLBH\DAL\obj\Debug\DAL.pdb
+D:\LMS\CNPM_LONGTHINH\QLBH\DAL\bin\Debug\DAL.exe.config
+D:\LMS\CNPM_LONGTHINH\QLBH\DAL\bin\Debug\DAL.exe
+D:\LMS\CNPM_LONGTHINH\QLBH\DAL\bin\Debug\DAL.pdb
+D:\LMS\CNPM_LONGTHINH\QLBH\DAL\bin\Debug\DTO.exe
+D:\LMS\CNPM_LONGTHINH\QLBH\DAL\bin\Debug\DTO.pdb
+D:\LMS\CNPM_LONGTHINH\QLBH\DAL\bin\Debug\DTO.exe.config
+D:\LMS\CNPM_LONGTHINH\QLBH\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\LMS\CNPM_LONGTHINH\QLBH\DAL\obj\Debug\DAL.Properties.Resources.resources
+D:\LMS\CNPM_LONGTHINH\QLBH\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\LMS\CNPM_LONGTHINH\QLBH\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\LMS\CNPM_LONGTHINH\QLBH\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\LMS\CNPM_LONGTHINH\QLBH\DAL\obj\Debug\DAL.exe
+D:\LMS\CNPM_LONGTHINH\QLBH\DAL\obj\Debug\DAL.pdb
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\DAL\bin\Debug\DAL.exe.config
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\DAL\bin\Debug\DAL.exe
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\DAL\bin\Debug\DAL.pdb
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\DAL\bin\Debug\DTO.exe
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\DAL\bin\Debug\DTO.pdb
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\DAL\bin\Debug\DTO.exe.config
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\DAL\obj\Debug\DAL.Properties.Resources.resources
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\DAL\obj\Debug\DAL.exe
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\DAL\obj\Debug\DAL.pdb
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\DAL\bin\Debug\DAL.exe.config
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\DAL\bin\Debug\DAL.exe
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\DAL\bin\Debug\DAL.pdb
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\DAL\bin\Debug\DTO.exe
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\DAL\bin\Debug\DTO.pdb
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\DAL\bin\Debug\DTO.exe.config
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\DAL\obj\Debug\DAL.Properties.Resources.resources
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\DAL\obj\Debug\DAL.exe
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\DAL\obj\Debug\DAL.pdb
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\DAL\bin\Debug\DAL.exe.config
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\DAL\bin\Debug\DAL.exe
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\DAL\bin\Debug\DAL.pdb
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\DAL\bin\Debug\DTO.exe
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\DAL\bin\Debug\DTO.pdb
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\DAL\bin\Debug\DTO.exe.config
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\DAL\obj\Debug\DAL.Properties.Resources.resources
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\DAL\obj\Debug\DAL.exe
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\DAL\obj\Debug\DAL.pdb
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\DAL\bin\Debug\DAL.exe.config
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\DAL\bin\Debug\DAL.exe
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\DAL\bin\Debug\DAL.pdb
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\DAL\bin\Debug\DTO.exe
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\DAL\bin\Debug\DTO.pdb
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\DAL\bin\Debug\DTO.exe.config
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\DAL\obj\Debug\DAL.Properties.Resources.resources
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\DAL\obj\Debug\DAL.exe
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\DAL\obj\Debug\DAL.pdb

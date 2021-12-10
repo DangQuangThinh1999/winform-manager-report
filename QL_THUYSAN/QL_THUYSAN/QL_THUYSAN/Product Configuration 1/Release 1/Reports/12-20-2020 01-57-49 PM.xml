@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="C:\Program Files (x86)\InstallShield\2020\Support\0409\buildreport.xsl"?>
+<BuildReport ProductName="QLBH" ProductVersion="1.00.0000" Built="12-20-2020 01-57-49 PM" Config="Product Configuration 1" Media="Release 1" Uncompressed="0.00 MB">
+  <Features>
+    <Feature Title="##ID_STRING1##">NewFeature1</Feature>
+  </Features>
+  <Components>
+    <Component x64="32" KeyPath="axshockwaveflashobjects.dll">AxShockwaveFlashObjects.dll1</Component>
+    <Component x64="32" KeyPath="bus.exe">BUS.exe1</Component>
+    <Component x64="32" KeyPath="crystaldecisions.crystalrepo">CrystalDecisions.CrystalReports.Engine.dll1</Component>
+    <Component x64="32" KeyPath="crystaldecisions.reportappse">CrystalDecisions.ReportAppServer.ClientDoc.dll1</Component>
+    <Component x64="32" KeyPath="crystaldecisions.reportappse1">CrystalDecisions.ReportAppServer.CommLayer.dll1</Component>
+    <Component x64="32" KeyPath="crystaldecisions.reportappse2">CrystalDecisions.ReportAppServer.CommonControls.dll1</Component>
+    <Component x64="32" KeyPath="crystaldecisions.reportappse3">CrystalDecisions.ReportAppServer.CommonObjectModel.dll1</Component>
+    <Component x64="32" KeyPath="crystaldecisions.reportappse4">CrystalDecisions.ReportAppServer.Controllers.dll1</Component>
+    <Component x64="32" KeyPath="crystaldecisions.reportappse5">CrystalDecisions.ReportAppServer.CubeDefModel.dll1</Component>
+    <Component x64="32" KeyPath="crystaldecisions.reportappse6">CrystalDecisions.ReportAppServer.DataDefModel.dll1</Component>
+    <Component x64="32" KeyPath="crystaldecisions.reportappse7">CrystalDecisions.ReportAppServer.DataSetConversion.dll1</Component>
+    <Component x64="32" KeyPath="crystaldecisions.reportappse8">CrystalDecisions.ReportAppServer.ObjectFactory.dll1</Component>
+    <Component x64="32" KeyPath="crystaldecisions.reportappse9">CrystalDecisions.ReportAppServer.Prompting.dll1</Component>
+    <Component x64="32" KeyPath="crystaldecisions.reportappse10">CrystalDecisions.ReportAppServer.ReportDefModel.dll1</Component>
+    <Component x64="32" KeyPath="crystaldecisions.reportappse11">CrystalDecisions.ReportAppServer.XmlSerialize.dll1</Component>
+    <Component x64="32" KeyPath="crystaldecisions.reportsourc">CrystalDecisions.ReportSource.dll1</Component>
+    <Component x64="32" KeyPath="crystaldecisions.shared.dll">CrystalDecisions.Shared.dll1</Component>
+    <Component x64="32" KeyPath="crystaldecisions.windows.for">CrystalDecisions.Windows.Forms.dll1</Component>
+    <Component x64="32" KeyPath="dal.exe">DAL.exe1</Component>
+    <Component x64="32" KeyPath="dto.exe">DTO.exe1</Component>
+    <Component x64="32" KeyPath="gui.exe">GUI.exe1</Component>
+    <Component x64="32" KeyPath="gui.vshost.exe">GUI.vshost.exe1</Component>
+    <Component x64="32" KeyPath="shockwaveflashobjects.dll">ShockwaveFlashObjects.dll1</Component>
+    <Component x64="32" KeyPath="_6D1D8EE426C9E6E2EAF831D73B2B5004">_CB35AFBFC7EA24382441739B5326F34D</Component>
+    <Component x64="32" KeyPath="_7249C7C87467678EC1AB86A09D6FE6BE">_D94005804419DB661087E9A0D0B29489</Component>
+    <Component x64="32" KeyPath="stdole.dll">stdole.dll1</Component>
+  </Components>
+  <Prerequisites />
+  <MergeModules />
+  <DynamicLinks />
+  <Files>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]My Company Name\My Product Name" Component="AxShockwaveFlashObjects.dll1" Modified="26/07/20 12:21:02 CH" Size="18432" Version="1.0.0.0">AxShockwaveFlashObjects.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]My Company Name\My Product Name" Component="_CB35AFBFC7EA24382441739B5326F34D" Modified="03/10/20 7:33:28 SA" Size="22874520" Version="32.0.0.445">Flash.ocx</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]My Company Name\My Product Name" Component="BUS.exe1" Modified="16/12/20 9:13:44 CH" Size="7168" Version="1.0.0.0">BUS.exe</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]My Company Name\My Product Name" Component="CrystalDecisions.CrystalReports.Engine.dll1" Modified="26/07/20 12:21:02 CH" Size="373248" Version="13.0.28.3597">CrystalDecisions.CrystalReports.Engine.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]My Company Name\My Product Name" Component="_D94005804419DB661087E9A0D0B29489" Modified="17/12/20 12:58:18 CH" Size="237568" Version="1.2.10.0">log4net.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]My Company Name\My Product Name" Component="CrystalDecisions.ReportAppServer.ClientDoc.dll1" Modified="26/07/20 12:21:02 CH" Size="55296" Version="13.0.28.3597">CrystalDecisions.ReportAppServer.ClientDoc.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]My Company Name\My Product Name" Component="CrystalDecisions.ReportAppServer.CommLayer.dll1" Modified="26/07/20 12:21:02 CH" Size="37376" Version="13.0.28.3597">CrystalDecisions.ReportAppServer.CommLayer.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]My Company Name\My Product Name" Component="CrystalDecisions.ReportAppServer.CommonControls.dll1" Modified="26/07/20 12:21:02 CH" Size="124416" Version="13.0.28.3597">CrystalDecisions.ReportAppServer.CommonControls.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]My Company Name\My Product Name" Component="CrystalDecisions.ReportAppServer.CommonObjectModel.dll1" Modified="26/07/20 12:21:02 CH" Size="25600" Version="13.0.28.3597">CrystalDecisions.ReportAppServer.CommonObjectModel.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]My Company Name\My Product Name" Component="CrystalDecisions.ReportAppServer.Controllers.dll1" Modified="26/07/20 12:21:02 CH" Size="165376" Version="13.0.28.3597">CrystalDecisions.ReportAppServer.Controllers.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]My Company Name\My Product Name" Component="CrystalDecisions.ReportAppServer.CubeDefModel.dll1" Modified="26/07/20 12:21:02 CH" Size="26112" Version="13.0.28.3597">CrystalDecisions.ReportAppServer.CubeDefModel.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]My Company Name\My Product Name" Component="CrystalDecisions.ReportAppServer.DataDefModel.dll1" Modified="26/07/20 12:21:02 CH" Size="249344" Version="13.0.28.3597">CrystalDecisions.ReportAppServer.DataDefModel.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]My Company Name\My Product Name" Component="CrystalDecisions.ReportAppServer.DataSetConversion.dll1" Modified="26/07/20 12:21:02 CH" Size="44544" Version="13.0.28.3597">CrystalDecisions.ReportAppServer.DataSetConversion.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]My Company Name\My Product Name" Component="CrystalDecisions.ReportAppServer.ObjectFactory.dll1" Modified="26/07/20 12:21:02 CH" Size="5120" Version="13.0.28.3597">CrystalDecisions.ReportAppServer.ObjectFactory.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]My Company Name\My Product Name" Component="CrystalDecisions.ReportAppServer.Prompting.dll1" Modified="26/07/20 12:21:02 CH" Size="142336" Version="13.0.28.3597">CrystalDecisions.ReportAppServer.Prompting.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]My Company Name\My Product Name" Component="CrystalDecisions.ReportAppServer.ReportDefModel.dll1" Modified="26/07/20 12:21:02 CH" Size="359424" Version="13.0.28.3597">CrystalDecisions.ReportAppServer.ReportDefModel.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]My Company Name\My Product Name" Component="CrystalDecisions.ReportAppServer.XmlSerialize.dll1" Modified="26/07/20 12:21:02 CH" Size="16384" Version="13.0.28.3597">CrystalDecisions.ReportAppServer.XmlSerialize.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]My Company Name\My Product Name" Component="CrystalDecisions.ReportSource.dll1" Modified="26/07/20 12:21:02 CH" Size="74752" Version="13.0.28.3597">CrystalDecisions.ReportSource.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]My Company Name\My Product Name" Component="CrystalDecisions.Shared.dll1" Modified="26/07/20 12:21:02 CH" Size="879104" Version="13.0.28.3597">CrystalDecisions.Shared.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]My Company Name\My Product Name" Component="CrystalDecisions.Windows.Forms.dll1" Modified="26/07/20 12:21:02 CH" Size="541696" Version="13.0.28.3597">CrystalDecisions.Windows.Forms.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]My Company Name\My Product Name" Component="DAL.exe1" Modified="16/12/20 9:13:43 CH" Size="8704" Version="1.0.0.0">DAL.exe</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]My Company Name\My Product Name" Component="DTO.exe1" Modified="16/12/20 9:13:43 CH" Size="8192" Version="1.0.0.0">DTO.exe</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]My Company Name\My Product Name" Component="GUI.exe1" Modified="17/12/20 1:53:48 CH" Size="81408" Version="1.0.0.0">GUI.exe</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]My Company Name\My Product Name" Component="GUI.vshost.exe1" Modified="16/12/20 3:03:00 CH" Size="24224" Version="12.0.21005.1">GUI.vshost.exe</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]My Company Name\My Product Name" Component="ShockwaveFlashObjects.dll1" Modified="26/07/20 12:21:02 CH" Size="23040" Version="1.0.0.0">ShockwaveFlashObjects.dll</File>
+    <File Destination="{INSTALLDIR} [ProgramFilesFolder]My Company Name\My Product Name" Component="stdole.dll1" Modified="13/12/20 2:26:52 CH" Size="25464" Version="7.0.9466.1">stdole.dll</File>
+  </Files>
+</BuildReport>

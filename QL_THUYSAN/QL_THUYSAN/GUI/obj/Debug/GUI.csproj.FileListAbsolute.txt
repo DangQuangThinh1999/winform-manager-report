@@ -1,0 +1,450 @@
+G:\QLBH\GUI\bin\Debug\GUI.exe.config
+G:\QLBH\GUI\bin\Debug\GUI.exe
+G:\QLBH\GUI\bin\Debug\GUI.pdb
+G:\QLBH\GUI\obj\Debug\GUI.frmHethong.resources
+G:\QLBH\GUI\obj\Debug\GUI.Properties.Resources.resources
+G:\QLBH\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+G:\QLBH\GUI\obj\Debug\GUI.exe
+G:\QLBH\GUI\obj\Debug\GUI.pdb
+G:\QLBH\GUI\obj\Debug\GUI.frmDangnhap.resources
+G:\QLBH\GUI\bin\Debug\DTO.exe
+G:\QLBH\GUI\bin\Debug\DTO.pdb
+G:\QLBH\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+G:\QLBH\GUI\bin\Debug\BUS.exe
+G:\QLBH\GUI\bin\Debug\DAL.exe
+G:\QLBH\GUI\bin\Debug\BUS.pdb
+G:\QLBH\GUI\bin\Debug\DAL.pdb
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH2A\N1\QLBH\GUI\bin\Debug\GUI.exe.config
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH2A\N1\QLBH\GUI\obj\Debug\GUI.exe
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH2A\N1\QLBH\GUI\obj\Debug\GUI.pdb
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH2A\N1\QLBH\GUI\bin\Debug\GUI.exe
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH2A\N1\QLBH\GUI\bin\Debug\GUI.pdb
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH2A\N1\QLBH\GUI\bin\Debug\BUS.exe
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH2A\N1\QLBH\GUI\bin\Debug\DTO.exe
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH2A\N1\QLBH\GUI\bin\Debug\DAL.exe
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH2A\N1\QLBH\GUI\bin\Debug\BUS.pdb
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH2A\N1\QLBH\GUI\bin\Debug\DTO.pdb
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH2A\N1\QLBH\GUI\bin\Debug\DAL.pdb
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH2A\N1\QLBH\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH2A\N1\QLBH\GUI\obj\Debug\GUI.frmDangnhap.resources
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH2A\N1\QLBH\GUI\obj\Debug\GUI.frmHethong.resources
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH2A\N1\QLBH\GUI\obj\Debug\GUI.frmKhachhang.resources
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH2A\N1\QLBH\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH2A\N1\QLBH\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Working\DaiHocNguyenTatThanh\Bo mon KTPM\Bai giang Bo mon KTPM\BG_Cong nghe phan mem\4\E-Learning\18DTH2A\N1\QLBH\GUI\obj\Debug\GUI.frmBCDSMoiMHReport.resources
+C:\Users\ThinkPad\Desktop\CÔNG NGHỆ PHẦN MỀM\ĐỒ ÁN THẦY\QLBH\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\ThinkPad\Desktop\CÔNG NGHỆ PHẦN MỀM\ĐỒ ÁN THẦY\QLBH\GUI\obj\Debug\GUI.frmBCDSMoiMHReport.resources
+C:\Users\ThinkPad\Desktop\CÔNG NGHỆ PHẦN MỀM\ĐỒ ÁN THẦY\QLBH\GUI\obj\Debug\GUI.frmDangnhap.resources
+C:\Users\ThinkPad\Desktop\CÔNG NGHỆ PHẦN MỀM\ĐỒ ÁN THẦY\QLBH\GUI\obj\Debug\GUI.frmHethong.resources
+C:\Users\ThinkPad\Desktop\CÔNG NGHỆ PHẦN MỀM\ĐỒ ÁN THẦY\QLBH\GUI\obj\Debug\GUI.frmKhachhang.resources
+C:\Users\ThinkPad\Desktop\CÔNG NGHỆ PHẦN MỀM\ĐỒ ÁN THẦY\QLBH\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\ThinkPad\Desktop\CÔNG NGHỆ PHẦN MỀM\ĐỒ ÁN THẦY\QLBH\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\ThinkPad\Desktop\CÔNG NGHỆ PHẦN MỀM\ĐỒ ÁN THẦY\QLBH\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Desktop\CÔNG NGHỆ PHẦN MỀM\ĐỒ ÁN THẦY\QLBH\GUI\obj\Debug\GUI.exe
+C:\Users\ThinkPad\Desktop\CÔNG NGHỆ PHẦN MỀM\ĐỒ ÁN THẦY\QLBH\GUI\obj\Debug\GUI.pdb
+D:\LMS\New folder\QLBH\GUI\bin\Debug\GUI.exe.config
+D:\LMS\New folder\QLBH\GUI\bin\Debug\GUI.exe
+D:\LMS\New folder\QLBH\GUI\bin\Debug\GUI.pdb
+D:\LMS\New folder\QLBH\GUI\bin\Debug\BUS.exe
+D:\LMS\New folder\QLBH\GUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\LMS\New folder\QLBH\GUI\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\LMS\New folder\QLBH\GUI\bin\Debug\CrystalDecisions.Shared.dll
+D:\LMS\New folder\QLBH\GUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\LMS\New folder\QLBH\GUI\bin\Debug\DTO.exe
+D:\LMS\New folder\QLBH\GUI\bin\Debug\DAL.exe
+D:\LMS\New folder\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\LMS\New folder\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\LMS\New folder\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\LMS\New folder\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\LMS\New folder\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\LMS\New folder\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\LMS\New folder\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\LMS\New folder\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\LMS\New folder\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\LMS\New folder\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\LMS\New folder\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\LMS\New folder\QLBH\GUI\bin\Debug\AxShockwaveFlashObjects.dll
+D:\LMS\New folder\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\LMS\New folder\QLBH\GUI\bin\Debug\ShockwaveFlashObjects.dll
+D:\LMS\New folder\QLBH\GUI\bin\Debug\stdole.dll
+D:\LMS\New folder\QLBH\GUI\bin\Debug\BUS.pdb
+D:\LMS\New folder\QLBH\GUI\bin\Debug\BUS.exe.config
+D:\LMS\New folder\QLBH\GUI\bin\Debug\DTO.pdb
+D:\LMS\New folder\QLBH\GUI\bin\Debug\DTO.exe.config
+D:\LMS\New folder\QLBH\GUI\bin\Debug\DAL.pdb
+D:\LMS\New folder\QLBH\GUI\bin\Debug\DAL.exe.config
+D:\LMS\New folder\QLBH\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\LMS\New folder\QLBH\GUI\obj\Debug\GUI.frmBCDSMoiMHReport.resources
+D:\LMS\New folder\QLBH\GUI\obj\Debug\GUI.frmDangnhap.resources
+D:\LMS\New folder\QLBH\GUI\obj\Debug\GUI.frmHethong.resources
+D:\LMS\New folder\QLBH\GUI\obj\Debug\GUI.frmKhachhang.resources
+D:\LMS\New folder\QLBH\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\LMS\New folder\QLBH\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\LMS\New folder\QLBH\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\LMS\New folder\QLBH\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\LMS\New folder\QLBH\GUI\obj\Debug\GUI.exe
+D:\LMS\New folder\QLBH\GUI\obj\Debug\GUI.pdb
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\bin\Debug\GUI.exe.config
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\bin\Debug\GUI.exe
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\bin\Debug\GUI.pdb
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\bin\Debug\BUS.exe
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\bin\Debug\CrystalDecisions.Shared.dll
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\bin\Debug\DTO.exe
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\bin\Debug\DAL.exe
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\bin\Debug\AxShockwaveFlashObjects.dll
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\bin\Debug\ShockwaveFlashObjects.dll
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\bin\Debug\stdole.dll
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\bin\Debug\BUS.pdb
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\bin\Debug\BUS.exe.config
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\bin\Debug\DTO.pdb
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\bin\Debug\DTO.exe.config
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\bin\Debug\DAL.pdb
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\bin\Debug\DAL.exe.config
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\obj\Debug\GUI.frmBCDSMoiMHReport.resources
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\obj\Debug\GUI.frmDangnhap.resources
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\obj\Debug\GUI.frmHethong.resources
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\obj\Debug\GUI.frmKhachhang.resources
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\obj\Debug\GUI.exe
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\obj\Debug\GUI.pdb
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\obj\Debug\GUI.frmBCDTTN.resources
+D:\LMS\1800000010_DangQuangThinh_18DTH1A\QLBH\GUI\obj\Debug\GUI.frmBCDSNhanVien.resources
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\bin\Debug\GUI.exe.config
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\bin\Debug\GUI.exe
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\bin\Debug\GUI.pdb
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\bin\Debug\BUS.exe
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\bin\Debug\CrystalDecisions.Shared.dll
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\bin\Debug\DTO.exe
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\bin\Debug\DAL.exe
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\bin\Debug\AxShockwaveFlashObjects.dll
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\bin\Debug\ShockwaveFlashObjects.dll
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\bin\Debug\stdole.dll
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\bin\Debug\BUS.pdb
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\bin\Debug\BUS.exe.config
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\bin\Debug\DTO.pdb
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\bin\Debug\DTO.exe.config
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\bin\Debug\DAL.pdb
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\bin\Debug\DAL.exe.config
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\obj\Debug\GUI.frmBCDSMoiMHReport.resources
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\obj\Debug\GUI.frmBCDSNhanVien.resources
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\obj\Debug\GUI.frmBCDTTN.resources
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\obj\Debug\GUI.frmDangnhap.resources
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\obj\Debug\GUI.frmHethong.resources
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\obj\Debug\GUI.frmKhachhang.resources
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\obj\Debug\GUI.exe
+D:\LMS\1800001480_HaLeDoanTrang\QLBH\GUI\obj\Debug\GUI.pdb
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\GUI.exe.config
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\GUI.exe
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\GUI.pdb
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\BUS.exe
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\CrystalDecisions.Shared.dll
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\DTO.exe
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\DAL.exe
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\AxShockwaveFlashObjects.dll
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\ShockwaveFlashObjects.dll
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\stdole.dll
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\BUS.pdb
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\BUS.exe.config
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\DTO.pdb
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\DTO.exe.config
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\DAL.pdb
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\DAL.exe.config
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\obj\Debug\GUI.frmBCDSMoiMHReport.resources
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\obj\Debug\GUI.frmBCDSNhanVien.resources
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\obj\Debug\GUI.frmBCDTTN.resources
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\obj\Debug\GUI.frmDangnhap.resources
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\obj\Debug\GUI.frmHethong.resources
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\obj\Debug\GUI.frmKhachhang.resources
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\obj\Debug\GUI.frmMatHang.resources
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\obj\Debug\GUI.exe
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\obj\Debug\GUI.pdb
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\obj\Debug\GUI.frmct_hoadon.resources
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\obj\Debug\GUI.frmnhanvien.resources
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\obj\Debug\GUI.frmhoadon.resources
+D:\LMS\CNPM_LONGTHINH\QLBH\GUI\obj\Debug\GUI.frntrogiup.resources
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\GUI.exe.config
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\GUI.exe
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\GUI.pdb
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\BUS.exe
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\CrystalDecisions.Shared.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\DTO.exe
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\DAL.exe
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\AxShockwaveFlashObjects.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\ShockwaveFlashObjects.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\stdole.dll
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\BUS.pdb
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\BUS.exe.config
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\DTO.pdb
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\DTO.exe.config
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\DAL.pdb
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\bin\Debug\DAL.exe.config
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\obj\Debug\GUI.frmBCDSMoiMHReport.resources
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\obj\Debug\GUI.frmBCDSNhanVien.resources
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\obj\Debug\GUI.frmBCDTTN.resources
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\obj\Debug\GUI.frmct_hoadon.resources
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\obj\Debug\GUI.frmDangnhap.resources
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\obj\Debug\GUI.frmHethong.resources
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\obj\Debug\GUI.frmhoadon.resources
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\obj\Debug\GUI.frmKhachhang.resources
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\obj\Debug\GUI.frmnhanvien.resources
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\obj\Debug\GUI.frntrogiup.resources
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\obj\Debug\GUI.exe
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\obj\Debug\GUI.pdb
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\obj\Debug\GUI.frm_vattu.resources
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\obj\Debug\GUI.frm_nhacungcap.resources
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\CNPM_LONGTHINH\QLBH\GUI\obj\Debug\GUI.frm_thietbi.resources
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\obj\Debug\GUI.frmBCDSMoiMHReport.resources
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\obj\Debug\GUI.frmBCDSNhanVien.resources
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\obj\Debug\GUI.frmBCDTTN.resources
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\obj\Debug\GUI.frmct_hoadon.resources
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\obj\Debug\GUI.frmDangnhap.resources
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\obj\Debug\GUI.frmHethong.resources
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\obj\Debug\GUI.frmhoadon.resources
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\obj\Debug\GUI.frmKhachhang.resources
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\obj\Debug\GUI.frmnhanvien.resources
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\obj\Debug\GUI.frm_nhacungcap.resources
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\obj\Debug\GUI.frm_thietbi.resources
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\obj\Debug\GUI.frm_vattu.resources
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\obj\Debug\GUI.frntrogiup.resources
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\ĐỒ ÁN CHUYÊN NGÀNH\ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\obj\Debug\GUI.frmBCDSMoiMHReport.resources
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\obj\Debug\GUI.frmBCDSNhanVien.resources
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\obj\Debug\GUI.frmBCDTTN.resources
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\obj\Debug\GUI.frmct_hoadon.resources
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\obj\Debug\GUI.frmDangnhap.resources
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\obj\Debug\GUI.frmHethong.resources
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\obj\Debug\GUI.frmhoadon.resources
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\obj\Debug\GUI.frmKhachhang.resources
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\obj\Debug\GUI.frmnhanvien.resources
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\obj\Debug\GUI.frm_nhacungcap.resources
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\obj\Debug\GUI.frm_thietbi.resources
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\obj\Debug\GUI.frm_vattu.resources
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\obj\Debug\GUI.frntrogiup.resources
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\bin\Debug\GUI.exe.config
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\bin\Debug\GUI.exe
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\bin\Debug\GUI.pdb
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\bin\Debug\BUS.exe
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.Shared.dll
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\bin\Debug\DTO.exe
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\bin\Debug\DAL.exe
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\bin\Debug\AxShockwaveFlashObjects.dll
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\bin\Debug\ShockwaveFlashObjects.dll
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\bin\Debug\stdole.dll
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\bin\Debug\BUS.pdb
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\bin\Debug\BUS.exe.config
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\bin\Debug\DTO.pdb
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\bin\Debug\DTO.exe.config
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\bin\Debug\DAL.pdb
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\bin\Debug\DAL.exe.config
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\obj\Debug\GUI.exe
+D:\DO_AN\DO_AN_CHUYEN_NGANH\QL_THUYSAN\GUI\obj\Debug\GUI.pdb
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.frmBCDSNhanVien.resources
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.frmct_hoadon.resources
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.frmDangnhap.resources
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.frmHethong.resources
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.frmhoadon.resources
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.frmKhachhang.resources
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.frmnhanvien.resources
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.frm_nhacungcap.resources
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.frm_thietbi.resources
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.frm_vattu.resources
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.frntrogiup.resources
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\GUI.exe.config
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\GUI.exe
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\GUI.pdb
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\BUS.exe
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.Shared.dll
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\DTO.exe
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\DAL.exe
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\AxShockwaveFlashObjects.dll
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\ShockwaveFlashObjects.dll
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\stdole.dll
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\BUS.pdb
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\BUS.exe.config
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\DTO.pdb
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\DTO.exe.config
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\DAL.pdb
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\DAL.exe.config
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.exe
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.pdb
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.frmBCDSThiet_bi.resources
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.frmBCDSVat_tu.resources
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.frmBCDTTN_NV.resources
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.frmBCDTTN_TB.resources
+D:\QL_THUYSAN\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.frmBCDTTN_VT.resources
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\GUI.exe.config
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\GUI.exe
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\GUI.pdb
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\BUS.exe
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.Shared.dll
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\DTO.exe
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\DAL.exe
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\AxShockwaveFlashObjects.dll
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\ShockwaveFlashObjects.dll
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\stdole.dll
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\BUS.pdb
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\BUS.exe.config
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\DTO.pdb
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\DTO.exe.config
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\DAL.pdb
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\bin\Debug\DAL.exe.config
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.frmBCDSThiet_bi.resources
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.frmBCDSNhanVien.resources
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.frmBCDSVat_tu.resources
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.frmBCDTTN_NV.resources
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.frmBCDTTN_TB.resources
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.frmBCDTTN_VT.resources
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.frmct_hoadon.resources
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.frmDangnhap.resources
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.frmHethong.resources
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.frmhoadon.resources
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.frmKhachhang.resources
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.frmnhanvien.resources
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.frm_nhacungcap.resources
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.frm_thietbi.resources
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.frm_vattu.resources
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.frntrogiup.resources
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.exe
+D:\1800000010-DangQuangThinh-18DTH1A\QL_THUYSAN\QL_THUYSAN\GUI\obj\Debug\GUI.pdb
